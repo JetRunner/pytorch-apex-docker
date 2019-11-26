@@ -11,3 +11,5 @@ This repo provides an up-to-date Dockerfile with the latest version of [PyTorch]
 docker pull jetrunner/pytorch-apex:release-x.x.x
 ```
 The version `x.x.x` should be consistent with PyTorch version.
+
+Currently supporting `pytorch >= 1.2.0`.
